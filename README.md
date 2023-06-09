@@ -20,9 +20,10 @@ The project has the following structure:
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/ykwakuboateng-dev/awesome-node.git`
-    2. Install dependencies: `cd your-repo && npm install`
-3. Configure the environment variables:
+1. Clone the repository: `git clone https://github.com/kwakuboateng-dev/awesome-node.git`
+2. Run setup to create server folder: `cd your-repo` and run `node setup.js`
+3. Install dependencies: `cd server && npm install`
+4. Configure the environment variables:
 - A `.env` file has already been created in the`server/config` folder.
    - Add the necessary configuration variables to the `.env` file.For example, you might set the `PORT` and 
    `DB_URI` variables.

@@ -1,5 +1,5 @@
 
-  # My Awesome Node.js Server Project! 🚀
+  # My Node-this Project! 🚀
 
 Welcome to my awesome Node.js server project! This project sets up a basic server structure for a Node.js application, using Express.js and MongoDB. It provides a starting point for building web applications or APIs.
 
@@ -49,3 +49,5 @@ Contributions to this project are always welcome! If you find any issues or have
 ## License 📝
 
 This project is licensed under the MIT License.
+
+This project was developed by Kwaku Boateng and you've got to Node-this!

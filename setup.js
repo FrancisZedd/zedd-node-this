@@ -261,9 +261,10 @@ Contributions to this project are always welcome! If you find any issues or have
 
 ## License 📝
 
-This project is licensed under the ISC License.Feel free to use, modify, and distribute the code as needed.See the[LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License.
 
 
+-Developed by Kwaku Boateng || @koboateng on twitter
 `;
 
 fs.writeFileSync('server/Readme.md', readmeContent);

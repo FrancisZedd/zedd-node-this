@@ -234,7 +234,7 @@ The project has the following structure:
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: \`git clone https://github.com/your-username/your-repo.git\`
+1. Clone the repository: \`git clone https://kwakuboateng-dev/awesome-node.git\`
     2. Install dependencies: \`cd your-repo && npm install\`
 3. Configure the environment variables:
 - Create a \`.env\` file in the\`server/config\` folder.
